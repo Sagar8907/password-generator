@@ -1,6 +1,3 @@
-
-
-```markdown
 # React Password Generator 🔐💡
 
 Generate strong and secure passwords with this React-based password generator.
